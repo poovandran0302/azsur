@@ -1,7 +1,7 @@
-# future ready talent project by Poovandran G
-# azsur
+# azsur: future ready talent project by Poovandran G
+
 This is my final Future Ready talent project
-#Azure link:https://black-pond-0b4b7a010.1.azurestaticapps.net
+# Azure Website link:https://black-pond-0b4b7a010.1.azurestaticapps.net
 
 # screenshots
 ![Screenshot (1)](https://user-images.githubusercontent.com/110174174/189049305-52d9a656-f4bd-407a-9119-fa8c5f56a51a.png)
